@@ -1,0 +1,58 @@
+.Airtable-Card {
+    background-color: #ffeab6;
+    margin-right: 300px;
+    border-radius: 10px;
+    width: 290px;
+    height: 1000px;
+    padding: 5px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 27px;
+}
+.Third-Section {
+    padding-top: 90px;
+}
+
+.Flexx {
+     list-style-type: square;
+        display:flex;
+    }
+    
+    .Flexx li {
+        display:block;
+        margin: 5px;
+    }
+.Big {
+    font-size: 65px;
+}
+
+.atag {
+    border-radius: 100px;
+    background-color: white;
+    padding: 20px 50px;
+    /* text-decoration-skip: ; */
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.atag:hover {
+padding: 20px 50px;
+border: 1px rgb(15, 15, 15);
+text-align: center;
+border-radius: 100px;
+background-color: grey;
+}
+
+ul {
+    list-style-type: none;
+    padding:10px;
+    margin:0;
+}
+
+.Flexx2 li::before{
+    content: "✔";
+} 
+
+.Paragraph {
+    font-size: large;
+}
