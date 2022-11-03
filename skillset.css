@@ -1,0 +1,40 @@
+.container {
+    padding: 10px 30px;
+}
+
+.skill-set {
+    background-color: gray;
+    height: 50px;
+    /* display: flex; */
+    /* align-items: center; */
+    text-align: end; 
+    /* padding-right: 10px;  */
+}
+
+.html {
+    width: 95%;
+    background-color: green;
+}
+
+.css {
+    width: 55%;
+    background-color: red;
+}
+
+.js {
+    width: 45%;
+    background-color: rgb(165, 42, 58);
+}
+
+.python {
+    width: 25%;
+    background-color: blue;
+}
+.php {
+    width: 65%;
+    background-color: yellow;
+}
+
+/* span {
+    padding-left: 80%;
+} */
